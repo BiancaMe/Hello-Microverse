@@ -59,7 +59,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Display Hello  Microverse**
+- **Set up the linter for fixing the errors and clean code**
+- **Add the structured content using HTML**
+- **Add the styling for the content using CSS**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -83,15 +85,12 @@ Clone this repository to your desired folder:
 
 
   cd my-folder
-  git clone https://github.com/BiancaMe/Project-Hello-Microverse.git
+  git clone https://github.com/BiancaMe/Hello-Microverse.git
 
 
 ### Usage
 
-To run the project, execute the following command:
-
-
-start index.html
+To run the project, double click on the index to open it in the browser.
 
 
 
@@ -107,7 +106,7 @@ start index.html
 
 - GitHub: [@BiancaMe](https://github.com/BiancaMe)
 - Twitter: [@BiancaMeLopez](https://twitter.com/BiancaMeLopez)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/bianca-lopez-55a4a3276/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bianca-lopez-55a4a3276/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +125,7 @@ start index.html
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to contact me  and tell me all what you think.
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
