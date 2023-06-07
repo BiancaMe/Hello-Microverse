@@ -85,7 +85,7 @@ Clone this repository to your desired folder:
 
 
   cd my-folder
-  git clone https://github.com/BiancaMe/Project-Hello-Microverse.git
+  git clone https://github.com/BiancaMe/Hello-Microverse.git
 
 
 ### Usage
